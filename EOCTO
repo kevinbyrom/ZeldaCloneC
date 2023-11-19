@@ -1,0 +1,8 @@
+#ifndef __EOCTO_H
+#define __EOCTO_H
+
+class EOCTOROCK : public ENTITY
+      {
+      };
+
+#endif
